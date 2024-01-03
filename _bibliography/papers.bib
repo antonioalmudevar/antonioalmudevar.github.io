@@ -36,6 +36,7 @@
   year=2023,
   booktitle={Proc. INTERSPEECH 2023},
   pages={2823--2827},
+  abstract={Unsupervised anomalous sound detection typically involves using a classifier with the last layer removed to extract embeddings. After that the cosine distance between train and test embeddings as anomaly score is used. In this paper, we propose a new idea which we call variational classifier that force the embeddings to follow a distribution imposed by design that can depend on the class of the input among other factors. To achieve this goal, in addition to the cross-entropy, we add to the loss function the KL divergence between these distributions and the one followed by the training embeddings. This enhances the ability of the system to differentiate between classes and it allows us to use sampling methods and to calculate the log-likelihood of a test embedding in the train embeddings distributions. We tested this proposal on the DCASE 2022 Task 2 dataset and observed improvements in both classification and unsupervised anomaly detection, which is the primary task.},
   doi={10.21437/Interspeech.2023-1965},
   html={https://www.isca-speech.org/archive/interspeech_2023/almudevar23_interspeech.html},
   pdf={https://www.isca-speech.org/archive/pdfs/interspeech_2023/almudevar23_interspeech.pdf},
