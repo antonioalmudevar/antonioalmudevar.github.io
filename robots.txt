@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://https://antonioalmudevar.github.io//sitemap.xml
+Sitemap: https://antonioalmudevar.github.io//sitemap.xml
