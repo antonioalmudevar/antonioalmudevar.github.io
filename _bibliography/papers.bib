@@ -43,6 +43,16 @@
   pdf={https://www.isca-speech.org/archive/pdfs/interspeech_2023/almudevar23_interspeech.pdf},
 }
 
+@unpublished{almudevar2023vbc,
+  author    = {Antonio Almudévar and Alfonso Ortega and Antonio Miguel and Luis Vicente and Eduardo Lleida},
+  title     = {Variational Bayes Classifier},
+  note      = {Unpublished manuscript},
+  year      = {2023},
+  abstract  = {Classifiers have traditionally been designed as fully-observed models. These classifiers are generally deterministic, so they are able to obtain a single output per input. The problem with this is that in this scenario it is not usually possible to capture the model uncertainty. On the other hand, Bayesian models offer the ability to capture this uncertainty, but usually have a higher computational cost. In this paper we propose to build a classifier as a latent variable model. This latent variable corresponds to what is usually called embedding and with our proposal we can model its distribution, which has two fundamental advantages. The first is that by knowing the distribution of the embeddings, the uncertainty of the predictions can be estimated. In addition, certain conditions can be imposed on the distribution of the embeddings to favor aspects such as interclass separation. We also propose an evidence lower bound to optimize the parameters of this classifier which can be maximized using stochastic gradient methods. Finally, we give two alternatives to implement these models using neural networks and demonstrate empirically the theoretical advantages of our proposal using different architectures and datasets.},
+  preview   = {vbc_gpm.png},
+  pdf       = {Variational_Bayes_Classifier_Preprint.pdf}
+}
+
 @inproceedings{almudevar2024variational,
   bibtex_show={true},
   title={Unsupervised Multiple Domain Translation through Controlled Disentanglement in Variational Autoencoder},
