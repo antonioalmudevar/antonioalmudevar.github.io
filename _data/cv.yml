@@ -13,15 +13,18 @@
   contents:
     - title: BSc
       institution: Universidad de Zaragoza
-      degree: Telecommunications Technology and Services Engineering
-      graduation_year: 2020
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+      year: 2020
       description:
-        - Description 1.
-        - Description 2.
-
+        - BSc in Telecommunications Technology and Services Engineering
+    - title: MSc
+      institution: Universidad de Zaragoza
+      year: 2021
+      description:
+        - MSc in in Modeling, Mathematical Research, Statistics and Computing
+    - title: PhD
+      institution: Universidad de Zaragoza
+      year: 2026 (expeted)
+      
 - title: Experience
   type: time_table
   contents:
