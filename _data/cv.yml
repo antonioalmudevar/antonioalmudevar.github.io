@@ -24,7 +24,9 @@
   
     - title: PhD Student
       institution: Universidad de Zaragoza
-      year: 2021.12-Present
+      year: 2021.12-Now
+      description:
+        - <u>Supervisors:</u> Alfonso Ortega and Luis Vicente.
         
     - title: Research Visit
       institution: Centre Inria de l’Université de Lorraine.
