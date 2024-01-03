@@ -11,19 +11,12 @@
 - title: Education
   type: time_table
   contents:
-    - title: BSc
+    - title: BSc in Telecommunications Technology and Services Engineering
       institution: Universidad de Zaragoza
       year: 2020
-      description:
-        - BSc in Telecommunications Technology and Services Engineering
-    - title: MSc
+    - title: MSc in in Modeling, Mathematical Research, Statistics and Computing
       institution: Universidad de Zaragoza
       year: 2021
-      description:
-        - MSc in in Modeling, Mathematical Research, Statistics and Computing
-    - title: PhD
-      institution: Universidad de Zaragoza
-      year: 2026 (Expected)
       
       
 - title: Experience
