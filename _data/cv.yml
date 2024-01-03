@@ -7,16 +7,6 @@
       value: PhD Student at University of Zaragoza
     - name: Email
       value: almudevar@unizar.es
-
-- title: Education
-  type: time_table
-  contents:
-    - title: BSc in Telecommunications Technology and Services Engineering
-      institution: Universidad de Zaragoza
-      year: 2016.09-2020.06
-    - title: MSc in in Modeling, Mathematical Research, Statistics and Computing
-      institution: Universidad de Zaragoza
-      year: 2020.09-2021.06
       
 - title: Experience
   type: time_table
@@ -46,3 +36,14 @@
       year: 2020.11-2021.06
       description:
         - Design of a system for signal enhancement from Distributed Acoustic Sensors (DAS) using Deep Learning techniques.
+
+
+- title: Education
+  type: time_table
+  contents:
+    - title: BSc in Telecommunications Technology and Services Engineering
+      institution: Universidad de Zaragoza
+      year: 2016.09-2020.06
+    - title: MSc in in Modeling, Mathematical Research, Statistics and Computing
+      institution: Universidad de Zaragoza
+      year: 2020.09-2021.06
