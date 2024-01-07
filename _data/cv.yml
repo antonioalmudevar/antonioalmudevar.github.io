@@ -41,12 +41,15 @@
 - title: Education
   type: time_table
   contents:
-    - title: BSc in Telecommunications Technology and Services Engineering
-      institution: Universidad de Zaragoza
-      year: 2016.09-2020.06
     - title: MSc in in Modeling, Mathematical Research, Statistics and Computing
       institution: Universidad de Zaragoza
       year: 2020.09-2021.06
+    - title: Erasmus Programme
+      institution: Chalmers University of Technology
+      year: 2019.08-2020.01
+    - title: BSc in Telecommunications Technology and Services Engineering
+      institution: Universidad de Zaragoza
+      year: 2016.09-2020.06
 
 
 - title: Teaching
