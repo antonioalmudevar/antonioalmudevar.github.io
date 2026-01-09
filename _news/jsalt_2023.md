@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-These next two months I will be in Le Mans to participate in the Jelinek Summer Workshop on Speech and Language Technology.
+I’m traveling to Le Mans for the next two months to attend the Jelinek Summer Workshop. I look forward to collaborating with the 'X-Diar: Explainability for Diarization' team.
