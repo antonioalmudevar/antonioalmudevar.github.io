@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be until Christmas at the Centre Inria de l'Université de Lorraine, working in the MULTISPEECH group.
+I’ll be based at the Centre Inria de l'Université de Lorraine until Christmas. I look forward to collaborating with the MULTISPEECH group.
