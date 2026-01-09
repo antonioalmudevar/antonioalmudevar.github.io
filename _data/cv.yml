@@ -14,18 +14,35 @@
   
     - title: PhD Student
       institution: Universidad de Zaragoza
-      year: 2021.12-Present
+      year: 2022.04-Present
       description:
         - <u>Supervisors:</u> Alfonso Ortega and Luis Vicente.
+
+    - title: Participation in the Jelinek Summer Workshop on Speech and Language Technology 2025
+      institution: Brno University of Technology
+      year: 2025.06-2025.08
+      description:
+        - 'Participation in the team "Play your Part: Towards LLM role-playing agents that stick to their role".'
+
+    - title: Research Visit
+      institution: University of Cambdridge
+      year: 2024.09-2025.02
+      description:
+        - <u>Supervisor:</u> José Miguel Hernández Lobato
+
+    - title: Participation in the Jelinek Summer Workshop on Speech and Language Technology 2024
+      institution: Johns Hopkins University
+      year: 2024.06-2024.08
+      description:
+        - 'Participation in the team "Multimodal Multi-Task Audio-Visual Transformer".'
         
     - title: Research Visit
-      institution: Centre Inria de l’Université de Lorraine.
+      institution: Centre Inria de l’Université de Lorraine
       year: 2023.09-2023.12
       description:
-        - Development of different techniques to improve the performance of Unsupervised Anomaly Detection and Few-Shot Classification systems.
-        - <u>Supervisor:</u> Romain Serizel.
+        - <u>Supervisor:</u> Romain Serizel
 
-    - title: Participation in the Jelinek Summer Workshop on Speech and Language Technology
+    - title: Participation in the Jelinek Summer Workshop on Speech and Language Technology 2023
       institution: Le Mans Université
       year: 2023.06-2023.08
       description:
@@ -41,6 +58,9 @@
 - title: Education
   type: time_table
   contents:
+    - title: PhD in Information Technologies
+      institution: Universidad de Zaragoza
+      year: 2022.04-Present
     - title: MSc in in Modeling, Mathematical Research, Statistics and Computing
       institution: Universidad de Zaragoza
       year: 2020.09-2021.06
@@ -55,9 +75,15 @@
 - title: Teaching
   type: time_table
   contents:
+
+    - title: Digital Signal Processing
+      institution: Universidad de Zaragoza
+      year: 2025
+      description:
+        - Seminars and Lab Sessions
   
     - title: Audio and Image Processing
       institution: Universidad de Zaragoza
-      year: 2022-2023
+      year: 2022-2024
       description:
-        - Seminars and Lab Sessions (30 hours)
+        - Seminars and Lab Sessions
