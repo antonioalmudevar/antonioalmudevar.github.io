@@ -191,13 +191,12 @@ ul.timeline li::before {
 }
 
 .cv-logo {
-  display: block;      /* Forces it to its own line */
-  margin-top: 5px;     /* Space above the logo */
-  width: 50px;         /* Adjust this size! (e.g., 40px - 60px) */
-  height: auto;        /* Keeps the aspect ratio square */
-  max-width: none;     /* Prevents squishing */
-  margin-left: auto;   /* Centers it horizontally... */
-  margin-right: auto;  /* ...if the column is centered */
+  display: block;
+  margin-top: 5px;
+  width: 40px;        /* Adjust size as needed */
+  height: auto;
+  margin-left: auto;  /* Centers logo if column allows */
+  margin-right: auto;
 }
 
 /*ul.timeline::before {
