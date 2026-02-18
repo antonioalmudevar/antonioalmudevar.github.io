@@ -16,6 +16,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My main area of interest is the development of new applications and ways of using variational methods. In particular, I like to use them in a way that allows me to impose certain conditions on the latent space in these systems. These conditions allow me to solve different tasks. To test the performance of these systems, I try to solve tasks related to audio and image processing.
+My research centers on the use of Information Theory to model representation spaces subject to specific, application-dependent conditions. By optimizing information-theoretic quantities, I design representations that are mathematically robust and tailored to complex requirements. These techniques have proven successful in a variety of tasks, including multimodal alignment, disentanglement, and machine unlearning.
 
-Currently, I am pursuing my PhD under the direction of Dr. Alfonso Ortega and Dr. Luis Vicente at the University of Zaragoza. Previously, I received the Bachelor degree in Telecommunication Engineering and the Master degree in Modeling, Mathematical Research, Statistics and Computing from the University of Zaragoza, Spain in the years 2020 and 2021 respectively.
+I am currently pursuing my PhD at the University of Zaragoza under the supervision of Dr. Alfonso Ortega. Prior to this, I earned my Master’s in Modeling, Mathematical Research, Statistics, and Computing (2021) and my Bachelor’s in Telecommunication Engineering (2020) from the same institution.
+
+To validate and expand my research, I have collaborated with international teams as a visiting researcher at Johns Hopkins University, the University of Cambridge, INRIA, Le Mans Université, and Brno University of Technology.
