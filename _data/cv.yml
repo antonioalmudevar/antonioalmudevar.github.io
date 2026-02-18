@@ -14,47 +14,47 @@
   
     - title: PhD Student
       institution: "Universidad de Zaragoza"
-      year: 2022.04-Present<br><br><img src='/assets/img/logos/uz.png' class='cv-logo'>"
+      year: 2022.04-Present<br><br><img src='/assets/img/logos/uz.png' class='cv-logo'>
       description:
         - <u>Supervisor:</u> Alfonso Ortega
 
     - title: Visiting Researcher
       institution: Brno University of Technology
-      year: 2025.06-2025.08
+      year: 2025.06-2025.08<br><br><img src='/assets/img/logos/but.png' class='cv-logo'>
       description:
         - 'JSALT Workshop Team: "Towards LLM role-playing agents that stick to their role"'
 
     - title: Visiting Researcher
       institution: University of Cambdridge
-      year: 2024.09-2025.02
+      year: 2024.09-2025.02<br><br><img src='/assets/img/logos/cam.png' class='cv-logo'>
       description:
         - <u>Supervisor:</u> José Miguel Hernández Lobato
 
     - title: Visiting Researcher
       institution: Johns Hopkins University
-      year: 2024.06-2024.08
+      year: 2024.06-2024.08<br><br><img src='/assets/img/logos/jhu.png' class='cv-logo'>
       description:
         - 'JSALT Workshop Team: "Multimodal Multi-Task Audio-Visual Transformer"'
         
     - title: Visiting Researcher
-      institution: Centre Inria de l’Université de Lorraine
-      year: 2023.09-2023.12
+      institution: Inria
+      year: 2023.09-2023.12<br><br><img src='/assets/img/logos/inria.png' class='cv-logo'>
       description:
         - <u>Supervisor:</u> Romain Serizel
 
     - title: Visiting Researcher
       institution: Le Mans Université
-      year: 2023.06-2023.08
+      year: 2023.06-2023.08<br><br><img src='/assets/img/logos/lium.png' class='cv-logo'>
       description:
         - 'JSALT Workshop Team: "X-Diar: Explainability for Diarization"'
 
     - title: Research Assistant
       institution: Universidad de Zaragoza
-      year: 2021.09-2022.03
+      year: 2021.09-2022.03<br><br><img src='/assets/img/logos/uz.png' class='cv-logo'>
         
     - title: Research Intern
       institution: Aragon Photonics Labs
-      year: 2020.11-2021.06
+      year: 2020.11-2021.06<br><br><img src='/assets/img/logos/ap.png' class='cv-logo'>
       description:
         - Unsupervised Anomaly Detection techniques applied to Optical Sensors
 
