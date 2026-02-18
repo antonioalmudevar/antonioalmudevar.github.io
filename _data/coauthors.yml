@@ -1,19 +1,44 @@
 "Ortega":
   - firstname: ["Alfonso", "A."]
-    url: https://vivolab.i3a.es/alfonso-ortega/
+    url: https://scholar.google.com/citations?user=4fyrSZoAAAAJ&hl=es
 
 "Vicente":
   - firstname: ["Luis", "L."]
-    url: https://vivolab.i3a.es/luis-vicente/
+    url: https://scholar.google.com/citations?user=pOEAiugAAAAJ&hl=es
 
 "Miguel":
   - firstname: ["Antonio", "A."]
-    url: https://vivolab.i3a.es/antonio-miguel/
+    url: https://scholar.google.es/citations?user=A1Dw_uYAAAAJ&hl=es
 
 "Lleida": 
   - firstname: ["Eduardo", "E."]
-    url: https://vivolab.i3a.es/eduardo-lleida/
+    url: https://scholar.google.com/citations?user=vOpq7SUAAAAJ&hl=en
 
 "Mariotte":
   - firstname: ["Théo", "T."]
-    url: https://lium.univ-lemans.fr/en/team/theo-mariotte-2/
+    url: https://scholar.google.es/citations?user=q3HZFcwAAAAJ&hl=es
+
+"Lebourdais":
+  - firstname: ["Martin", "M."]
+    url: https://scholar.google.com/citations?user=oe0FBVgAAAAJ&hl=fr
+
+"Tahon":
+  - firstname: ["Marie", "M."]
+    url: https://scholar.google.com/citations?user=qr0vFTkAAAAJ&hl=fr
+
+"Serizel":
+  - firstname: ["Romain", "R."]
+    url: https://scholar.google.com/citations?user=_PXk20cAAAAJ&hl=en
+
+"Hernández-Lobato":
+  - firstname: ["José Miguel"]
+    url: https://scholar.google.com/citations?user=BEBccCQAAAAJ&hl=es
+
+"Khurana":
+  - firstname: ["Sameer", "S."]
+    url: https://scholar.google.com/citations?user=SvKKBy4AAAAJ&hl=en
+
+"Marxer":
+  - firstname: ["Ricard", "R."]
+    url: https://scholar.google.com/citations?user=EloO3uwAAAAJ&hl=es
+
