@@ -8,52 +8,60 @@
     - name: Email
       value: almudevar@unizar.es
       
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
   
     - title: PhD Student
       institution: "Universidad de Zaragoza"
+      location: Zaragoza, Spain
       year: 2022.04-Present</span><br><img src='/assets/img/logos/uz.png' class='cv-logo'><span style='display:none'>
       description:
         - <u>Supervisor:</u> Alfonso Ortega
 
     - title: Visiting Researcher
       institution: Brno University of Technology
+      location: Brno, Czech Republic
       year: 2025.06-2025.08</span><br><img src='/assets/img/logos/but.png' class='cv-logo'><span style='display:none'>
       description:
         - 'JSALT Workshop Team: "Towards LLM role-playing agents that stick to their role"'
 
     - title: Visiting Researcher
       institution: University of Cambdridge
+      location: Cambridge, UK
       year: 2024.09-2025.02</span><br><img src='/assets/img/logos/cam.png' class='cv-logo'><span style='display:none'>
       description:
         - <u>Supervisor:</u> José Miguel Hernández Lobato
 
     - title: Visiting Researcher
       institution: Johns Hopkins University
+      location: Baltimore, USA
       year: 2024.06-2024.08</span><br><img src='/assets/img/logos/jhu.png' class='cv-logo'><span style='display:none'>
       description:
         - 'JSALT Workshop Team: "Multimodal Multi-Task Audio-Visual Transformer"'
         
     - title: Visiting Researcher
-      institution: Inria
+      institution: INRIA
+      location: Nancy, France
       year: 2023.09-2023.12</span><br><img src='/assets/img/logos/inria.png' class='cv-logo'><span style='display:none'>
       description:
         - <u>Supervisor:</u> Romain Serizel
 
     - title: Visiting Researcher
       institution: Le Mans Université
+      location: Le Mans, France
       year: 2023.06-2023.08</span><br><img src='/assets/img/logos/lium.png' class='cv-logo'><span style='display:none'>
       description:
         - 'JSALT Workshop Team: "X-Diar: Explainability for Diarization"'
 
     - title: Research Assistant
       institution: Universidad de Zaragoza
+      location: Zaragoza, Spain
       year: 2021.09-2022.03</span><br><img src='/assets/img/logos/uz.png' class='cv-logo'><span style='display:none'>
         
     - title: Research Intern
       institution: Aragon Photonics Labs
+      location: Zaragoza, Spain
       year: 2020.11-2021.06</span><br><img src='/assets/img/logos/ap.png' class='cv-logo'><span style='display:none'>
       description:
         - Unsupervised Anomaly Detection techniques applied to Optical Sensors
@@ -64,18 +72,22 @@
   contents:
     - title: Ph.D. in Information and Communication Technologies
       institution: Universidad de Zaragoza
-      year: 2022.04-Present
+      location: Zaragoza, Spain
+      year: 2022.04-Present</span><br><img src='/assets/img/logos/uz.png' class='cv-logo'><span style='display:none'>
       description:
         - <u>Areas:</u> Representation Learning, Information Theory, Variational Inference
     - title: MSc in in Modeling, Mathematical Research, Statistics and Computing
       institution: Universidad de Zaragoza
-      year: 2020.09-2021.06
-    - title: Erasmus Programme
+      location: Zaragoza, Spain
+      year: 2020.09-2021.06</span><br><img src='/assets/img/logos/uz.png' class='cv-logo'><span style='display:none'>
+    - title: M.Sc. in Wireless, Photonics and Space Engineering
       institution: Chalmers University of Technology
-      year: 2019.08-2020.01
+      year: 2019.08-2020.01</span><br><img src='/assets/img/logos/chalmers.png' class='cv-logo'><span style='display:none'>
+      description: Exchange Program
     - title: BSc in Telecommunications Technology and Services Engineering
+      location: Zaragoza, Spain
       institution: Universidad de Zaragoza
-      year: 2016.09-2020.06
+      year: 2016.09-2020.06</span><br><img src='/assets/img/logos/uz.png' class='cv-logo'><span style='display:none'>
 
 
 - title: Teaching
