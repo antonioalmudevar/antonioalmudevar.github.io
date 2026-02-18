@@ -18,6 +18,6 @@ social: true  # includes social icons at the bottom of the page
 
 My research centers on the use of Information Theory to model representation spaces subject to specific, application-dependent conditions. By optimizing information-theoretic quantities, I design representations that are mathematically robust and tailored to complex requirements. These techniques have proven successful in a variety of tasks, including multimodal alignment, disentanglement, and machine unlearning.
 
-I am currently pursuing my PhD at the University of Zaragoza under the supervision of Dr. Alfonso Ortega. Prior to this, I earned my Master’s in Modeling, Mathematical Research, Statistics, and Computing (2021) and my Bachelor’s in Telecommunication Engineering (2020) from the same institution, which included a six-month exchange program at Chalmers University.
+I am currently pursuing my PhD at the University of Zaragoza (Spain) under the supervision of Dr. Alfonso Ortega. Prior to this, I earned my Master’s in Modeling, Mathematical Research, Statistics, and Computing and my Bachelor’s in Telecommunication Engineering from the same institution, which included a six-month exchange program at Chalmers University (Sweden).
 
-To validate and expand my research, I have collaborated with international teams as a visiting researcher at Johns Hopkins University, the University of Cambridge, INRIA, Le Mans Université, and Brno University of Technology.
+I have also served as a visiting researcher at several institutions, including Johns Hopkins University (USA), the University of Cambridge (UK), INRIA and Le Mans Université (France), and Brno University of Technology (Czech Republic).
