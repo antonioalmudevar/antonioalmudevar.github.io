@@ -279,6 +279,9 @@ scholar:
   style: apa
   locale: en
 
+  sort_by: year, month  # <--- MUST HAVE BOTH
+  order: descending     # <--- descending = Newest first
+
   source: /_bibliography/
   bibliography: papers.bib
   bibliography_template: bib
