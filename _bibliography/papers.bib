@@ -12,8 +12,8 @@
   year={2022},
   publisher={MDPI},
   abstract={Distributed acoustic sensors (DASs) based on direct-detection Φ-OTDR use the light–matter interaction between light pulses and optical fiber to detect mechanical events in the fiber environment. The signals received in Φ-OTDR come from the coherent interference of the portion of the fiber illuminated by the light pulse. Its high sensitivity to minute phase changes in the fiber results in a severe reduction in the signal to noise ratio in the intensity trace that demands processing techniques be able to isolate events. For this purpose, this paper proposes a method based on Unsupervised Anomaly Detection techniques which make use of concepts from the field of deep learning and allow the removal of much of the noise from the Φ-OTDR signals. The fact that this method is unsupervised means that no human-labeled data are needed for training and only event-free data are used for this purpose. Moreover, this method has been implemented and its performance has been tested with real data showing promising results.},
-  preview={sensors-22-06515-g006.png},
   pdf={https://www.mdpi.com/1424-8220/22/17/6515/pdf},
+  preview={sensors-22-06515-g006.png},
 }
 
 @inproceedings{AlmudevarUZ2022,
@@ -23,8 +23,8 @@
   year=2022,
   booktitle={DCASE Challenge},
   abstract = "Anomalous sound detection (ASD) is the task of identifying if a sound is normal or anomalous with respect to a given reference. In most scenarios, we have a large amount of normal data to design our model, but little or no anomalous data. When this situation occurs, the problem can be approached in an unsupervised manner, i.e., only normal data is used for design. In this report we present a solution for the DCASE2022 task 2 (Unsupervised Anomalous Sound Detection for Machine Condition Monitoring Applying Domain Generalization Techniques), which aims to address the ASD problem under domain generalization. This means that the data to develop the system belongs to the source domain, while the test data can belong to this domain or to a different one (target domain). The presented solution proposes an embeddings extractor based on a Vision Transformer (ViT) and makes use of the k-Nearest-Neighbor (k-NN) algorithm to obtain the anomaly score.",
-  preview = "dcase_task2_2022.png",
   pdf={https://dcase.community/documents/challenge2022/technical_reports/DCASE2022_Almudevar_86_t2.pdf},
+  preview = {dcase_task2_2022.png},
 }
 
 @inproceedings{almudevar23_interspeech,
@@ -35,6 +35,7 @@
   booktitle={Interspeech},
   abstract={Unsupervised anomalous sound detection typically involves using a classifier with the last layer removed to extract embeddings. After that the cosine distance between train and test embeddings as anomaly score is used. In this paper, we propose a new idea which we call variational classifier that force the embeddings to follow a distribution imposed by design that can depend on the class of the input among other factors. To achieve this goal, in addition to the cross-entropy, we add to the loss function the KL divergence between these distributions and the one followed by the training embeddings. This enhances the ability of the system to differentiate between classes and it allows us to use sampling methods and to calculate the log-likelihood of a test embedding in the train embeddings distributions. We tested this proposal on the DCASE 2022 Task 2 dataset and observed improvements in both classification and unsupervised anomaly detection, which is the primary task.},
   pdf={https://www.isca-archive.org/interspeech_2023/almudevar23_interspeech.pdf},
+  preview={variational_class.png},
 }
 
 @inproceedings{mariotte2024explainable,
@@ -54,8 +55,8 @@
   booktitle={ICASSP},
   year={2024},
   abstract={Unsupervised Multiple Domain Translation is the task of transforming data from one domain to other domains without having paired data to train the systems. Typically, methods based on Generative Adversarial Networks (GANs) are used to address this task. However, our proposal exclusively relies on a modified version of a Variational Autoencoder. This modification consists on the use of two latent variables disentangled in a controlled way by design. One of this latent variables is imposed to depend exclusively on the domain, while the other one must depend on the rest of the variability factors of the data. Additionally, the conditions imposed over the domain latent variable allow for better control and understanding of the latent space. We empirically demonstrate that our approach works on different vision datasets improving the performance of other well known methods. Finally, we prove that, indeed, one of the latent variables stores all the information related to the domain and the other one hardly contains any domain information.},
+  pdf={https://arxiv.org/pdf/2401.09180},
   preview={gm_icassp2024.png},
-  pdf={https://arxiv.org/pdf/2401.09180}
 }
 
 @inproceedings{lebourdais24_interspeech,
