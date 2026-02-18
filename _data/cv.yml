@@ -13,8 +13,8 @@
   contents:
   
     - title: PhD Student
-      institution: "<img src='/assets/img/logos/uz.png' style='height: 1.5em; width: auto; max-width: none; vertical-align: middle; margin-right: 10px;'> Universidad de Zaragoza"
-      year: 2022.04-Present
+      institution: "Universidad de Zaragoza"
+      year: 2022.04-Present<br><br><img src='/assets/img/logos/uz.png' class='cv-logo'>"
       description:
         - <u>Supervisor:</u> Alfonso Ortega
 
