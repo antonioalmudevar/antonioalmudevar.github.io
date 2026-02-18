@@ -70,21 +70,25 @@
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D. in Information and Communication Technologies
+  
+    - title: PhD in Information and Communication Technologies
       institution: Universidad de Zaragoza
       location: Zaragoza, Spain
       year: 2022.04-Present</span><br><img src='/assets/img/logos/uz.png' class='cv-logo'><span style='display:none'>
       description:
         - <u>Areas:</u> Representation Learning, Information Theory, Variational Inference
-    - title: MSc in in Modeling, Mathematical Research, Statistics and Computing
+        
+    - title: MSc in Modeling, Mathematical Research, Statistics and Computing
       institution: Universidad de Zaragoza
       location: Zaragoza, Spain
       year: 2020.09-2021.06</span><br><img src='/assets/img/logos/uz.png' class='cv-logo'><span style='display:none'>
-    - title: M.Sc. in Wireless, Photonics and Space Engineering
+      
+    - title: MSc in Wireless, Photonics and Space Engineering
       institution: Chalmers University of Technology
       location: Gothenburg, Sweden
       year: 2019.08-2020.01</span><br><img src='/assets/img/logos/chalmers.png' class='cv-logo'><span style='display:none'>
       description: Exchange Program
+      
     - title: BSc in Telecommunications Technology and Services Engineering
       location: Zaragoza, Spain
       institution: Universidad de Zaragoza
