@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: profile_antonio.jpg
+  image: profile_antonio.png
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>PhD Student at University of Zaragoza</p>
