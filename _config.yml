@@ -273,7 +273,7 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: Almud{\'e}var
+  last_name: "Almudévar"
   first_name: Antonio
 
   style: apa
